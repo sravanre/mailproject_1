@@ -1,0 +1,21 @@
+					::::ERROR JOB LIST::::
+TopPafReportingBatchJob
+DbPaymentImportBatchJob
+TransmitBatchJob (P41EdiCreateDelivery)
+PollBatchJob (PbsInfoServiceImport)
+AccountStrategyBatchJob (receivablesContributor)
+PereReportingBatchJob
+PollBatchJob (PbsBetalingsServiceImport)
+AccountStrategyBatchJob (receivablesContributor)
+AccountStrategyBatchJob (receivablesContributor)
+HeapDepositesBatchJob
+PollBatchJob (EKapitalReceipt)
+BillingBatchJob
+BillingRequestPrintBatchJob
+AccountStrategyBatchJob (receivablesContributor)
+NeedsAdvanceBatchJob
+NeedsAdvanceBatchJob
+TopPrintDistributorBatchJob
+TransmitBatchJob (Pif2Update)
+					::::INPROGRESS JOB LIST ::::::
+DmMapperBatchJob
